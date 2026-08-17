@@ -116,3 +116,4 @@ The firmware reads newline-terminated JSON at 115200 baud:
 | nu    | Network upload           | KB/s  |
 | dr    | Disk read                | KB/s  |
 | dw    | Disk write               | KB/s  |
+Commit Changes
